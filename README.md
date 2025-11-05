@@ -2,7 +2,7 @@
 
 **Дата:** 30 октября 2025 г.  
 **Проект:** Calculator with History - Калькулятор с историей операций  
-**GitHub:** https://github.com/noPlanBonlyA/lab1_TestPO
+**GitHub:** https://github.com/noPlanBonlyA/lab2_TestPO
 
 ---
 
